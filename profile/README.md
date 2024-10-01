@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> This is an _unofficial_ GitHub organisation for the UKCEH RSE group. We are for now just experimenting to test whether it is worthwhile!
+> This is an _unofficial_ GitHub organisation for the UKCEH RSE group. We are for now just experimenting to test whether it is worthwhile, or if we should [stay put](https://github.com/NERC-CEH/rse_group)!
 
 # UKCEH RSE group
 

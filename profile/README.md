@@ -11,7 +11,7 @@ Feel free to get in touch with us (how?), drop into our [discussions](https://gi
 
 ## Members
 
-- Jo Walsh
+- [Jo Walsh](https://github.com/metazool/)
 - Robin Long
 - Matt Coole
 - Alba Gomez Segura

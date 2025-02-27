@@ -1,0 +1,1 @@
+Placeholder CONTRIBUTING.md file.

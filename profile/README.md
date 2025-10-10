@@ -13,5 +13,5 @@ Feel free to get in touch with us (how?), drop into our [discussions](https://gi
 - [Jo Walsh](https://github.com/metazool/)
 - [Robin Long](https://github.com/longr/)
 - [Matt Coole](https://github.com/matthewcoole/)
-- [Matt Brown](https://github.com/mattjbr123/)
+- [Matt Dalle Piagge](https://github.com/mattjbr123/)
 - [Joe Marsh Rossney](https://github.com/jmarshrossney)
